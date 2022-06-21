@@ -11,7 +11,9 @@
         <img src="https://img.shields.io/badge/license-MIT-white.svg" /></a>
 </p>
 
-This implementation of cosSquareFormer is based on the PyTorch implementation of the cosFormer model by [davidsvy](https://github.com/davidsvy/cosformer-pytorch) (Thank you!!!).
+This implementation of [cosSquareFormer](https://mayukh18.github.io/DEAP/) is based on the PyTorch implementation of the cosFormer model by [davidsvy](https://github.com/davidsvy/cosformer-pytorch) (Thank you!!!).
+
+Project Website can be found [here](https://mayukh18.github.io/DEAP/).
 
 
 Table of contents
