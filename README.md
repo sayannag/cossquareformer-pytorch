@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/python-3.7-blue.svg" /></a>
        <a href= "https://pytorch.org/">
         <img src="https://img.shields.io/badge/PyTorch-1.9-FF0000.svg" /></a>
-       <a href= "https://github.com/davidsvy/cosformer-pytorch/blob/main/LICENSE">
+       <a href= "https://github.com/sayannag/cossquareformer-pytorch/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-white.svg" /></a>
 </p>
 
